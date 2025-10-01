@@ -1,0 +1,76 @@
+{
+  "term": "Spring",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Classics"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Comparative Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Latin American History"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Poetry"
+    ],
+    [
+      "Humanities",
+      "Language",
+      "Spanish"
+    ],
+    [
+      "Society",
+      "Latin and Caribbean Studies"
+    ]
+  ],
+  "legacy_uid": "c5516934-ce02-d228-6863-947fe6b2124e",
+  "instructors": {
+    "content": [
+      "5819c0ab-6c60-ca51-8c8f-48a05d092b66"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "fea772e0-30e5-aa1f-1ed5-af2d1fb63773",
+    "website": "21g-730-hispanic-america-one-hundred-years-of-literature-and-film-spring-2014"
+  },
+  "course_title": "Hispanic America: One Hundred Years of Literature and Film",
+  "hide_download": true,
+  "course_description": "This course explores artistic achievement in a culture that over the past century has engaged in constant and intense imaginative self-renewal. The class studies film, narrative (e.g., M\u00e1rquez's _One Hundred Years of Solitude_), and poetry. Conducted in Spanish.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.730",
+  "course_image_thumbnail": {
+    "content": "0124491e-9ead-f263-c5e4-17045e75f2b5",
+    "website": "21g-730-hispanic-america-one-hundred-years-of-literature-and-film-spring-2014"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "ab638ef9-693d-4704-b234-9c8ac2b19094",
+  "site_short_id": "21g.730-spring-2014",
+  "site_url_path": "courses/21g-730-hispanic-america-one-hundred-years-of-literature-and-film-spring-2014",
+  "title": "Course Metadata"
+}

@@ -1,0 +1,44 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 3062ca1a-b88b-fba2-29a1-52fd8515785b
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 8a6e2700-30d2-db7f-00b7-6e9d3182d3fe
+  name: Calendar and Readings
+  pageRef: /pages/calendar-and-readings
+  weight: 20
+- identifier: 0f28283c-2a38-4ec8-f039-58083cd5fec3
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: c0cc6795-cd59-76cf-027b-f49573864354
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: d9a17f1b-8936-46a3-7caf-7d2b1a3690d0
+  name: Essay 1
+  pageRef: /pages/assignments/essay-1
+  parent: c0cc6795-cd59-76cf-027b-f49573864354
+  weight: 50
+- identifier: b2b4b712-11f0-3279-f51e-93be4591d77f
+  name: Essay 2
+  pageRef: /pages/assignments/essay-2
+  parent: c0cc6795-cd59-76cf-027b-f49573864354
+  weight: 60
+- identifier: 58b4ae09-3f30-04b4-21e5-63b667a20195
+  name: Essay 3
+  pageRef: /pages/assignments/essay-3
+  parent: c0cc6795-cd59-76cf-027b-f49573864354
+  weight: 70
+- identifier: 0ada583d-9ec5-3cae-70d9-04f9e7fd20b8
+  name: Essays 4 & 5
+  pageRef: /pages/assignments/essay-4-and-5
+  parent: c0cc6795-cd59-76cf-027b-f49573864354
+  weight: 80
+- identifier: e08be0f6-1fc2-e058-5cf6-bdc45cabac7d
+  name: Oral Presentations
+  pageRef: /pages/assignments/oral-presentations
+  parent: c0cc6795-cd59-76cf-027b-f49573864354
+  weight: 90
