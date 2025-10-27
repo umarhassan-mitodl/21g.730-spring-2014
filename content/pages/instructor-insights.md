@@ -38,7 +38,7 @@ One intermediate subject in Spanish or permission from the instructor. Intermedi
 
 - HASS Elective ![](/images/educator/icon-question-hass.png)
 - HASS-H ![](/images/educator/icon-question-hass-h.png)
-- 21G.730 can be applied toward a [Bachelor of Science in Foreign Languages and Literatures - Major in Spanish Studies](http://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/#spanishstudiestext), but is not required.
+- 21G.730 can be applied toward a {{% resource_link "73baa54d-29d9-4588-9962-a2b26ca58ebd" "Bachelor of Science in Foreign Languages and Literatures - Major in Spanish Studies" %}}, but is not required.
 
 ### Offered
 
@@ -50,7 +50,7 @@ The course was typically offered every other spring and was taught by Prof. Garr
 
 {{< quote "My teaching career spanned more than 35 years. I found that the mistakes 18 year-olds made in the realms of content, style, and grammar were the same year after year. So rather than writing down all my comments when I gave students feedback on their work, I created correction guides." "—Prof. Elizabeth Garrels" >}}
 
-Prof. Garrels retired in 2014 after 35 years at MIT. This course was the last she taught on campus. [Read a profile](http://shass.mit.edu/news/news-2014-elizabeth-garrels-retires-after-35-years-mit) about Prof. Garrels.
+Prof. Garrels retired in 2014 after 35 years at MIT. This course was the last she taught on campus. {{% resource_link "2c6a08e0-cf43-47cd-ad2e-5efbb786f615" "Read a profile" %}} about Prof. Garrels.
 
 _Below, Prof. Elizabeth Garrels describes various aspects of how she taught \_21G.730 Hispanic America: One Hundred Years of Literature and Film_.\_
 
